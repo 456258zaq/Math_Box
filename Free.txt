@@ -1,3 +1,5 @@
 기본라이센스
 Premiun
 - Enterprise use : 500$ per year
+Enducation : 10$ per month
+
